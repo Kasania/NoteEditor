@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Track>
+  <Attribute BPM="0" Level="0" Time="00.00.00.00" Name="Hello Track" />
+  <NoteLine>
+    <Note Position="1" Key="S" Location="UP" />
+    <Note Position="3" Key="D" Location="UP" />
+    <Note Position="337" Key="D" Location="UP" />
+    <Note Position="339" Key="D" Location="UP" />
+    <Note Position="5" Key="F" Location="UP" />
+    <Note Position="337" Key="F" Location="UP" />
+    <Note Position="338" Key="F" Location="UP" />
+    <Note Position="7" Key="SPACE" Location="UP" />
+    <Note Position="138" Key="SPACE" Location="UP" />
+    <Note Position="187" Key="SPACE" Location="UP" />
+    <Note Position="242" Key="SPACE" Location="UP" />
+    <Note Position="278" Key="SPACE" Location="UP" />
+    <Note Position="314" Key="SPACE" Location="UP" />
+    <Note Position="337" Key="SPACE" Location="UP" />
+    <Note Position="343" Key="SPACE" Location="UP" />
+    <Note Position="9" Key="J" Location="UP" />
+    <Note Position="11" Key="K" Location="UP" />
+    <Note Position="12" Key="L" Location="UP" />
+    <Note Position="341" Key="L" Location="UP" />
+    <Note Position="0" Key="S" Location="DOWN" />
+    <Note Position="12" Key="S" Location="DOWN" />
+    <Note Position="1" Key="D" Location="DOWN" />
+    <Note Position="11" Key="D" Location="DOWN" />
+    <Note Position="2" Key="F" Location="DOWN" />
+    <Note Position="15" Key="F" Location="DOWN" />
+    <Note Position="3" Key="SPACE" Location="DOWN" />
+    <Note Position="10" Key="SPACE" Location="DOWN" />
+    <Note Position="14" Key="SPACE" Location="DOWN" />
+    <Note Position="19" Key="SPACE" Location="DOWN" />
+    <Note Position="20" Key="SPACE" Location="DOWN" />
+    <Note Position="4" Key="J" Location="DOWN" />
+    <Note Position="5" Key="K" Location="DOWN" />
+    <Note Position="8" Key="K" Location="DOWN" />
+    <Note Position="5" Key="L" Location="DOWN" />
+  </NoteLine>
+  <MusicData />
+</Track>

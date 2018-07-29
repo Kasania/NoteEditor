@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Track>
+  <Attribute Name="TestTrack" Time="0.03.55.47" Level="127" BPM="160"/>
+  <!--Name : string-->
+  <!--Time : hh.hm.ss.msms-->
+  <!--Level : int-->
+  <!--BPM : float-->
+
+  <NoteLine>
+    <Note Key ="S" Start ="1" End ="10" />
+    <Note Key ="D" Start ="10" End ="20" />
+    <Note Key ="SPACE" Start ="20" End ="21" />
+  </NoteLine>
+
+  <MusicData>
+
+  </MusicData>
+
+</Track>
